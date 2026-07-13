@@ -1,4 +1,24 @@
+# Hi there, I'm Preyal Modi 👋
 
+💻 Computer Engineering Student
+
+🤖 AI Builder & Vibe Coder
+
+☁️ Exploring Artificial Intelligence, Cloud Computing & Data Analytics
+
+🚀 Passionate about building AI-powered applications and solving real-world problems through modern software development.
+
+### 🌱 Currently Learning
+- Artificial Intelligence
+- Machine Learning
+- Cloud Computing
+- Data Analytics
+- Software Engineering
+
+### 📫 Connect with Me
+🌐 Portfolio: https://preyal1portfolio.netlify.app/
+💻 GitHub: https://github.com/preyal2
+📧 Email: modipreyal@gmail.com
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/preyal____/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/preyalmodi/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/preyalmodi/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:modipreyal@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139)](https://preyal1portfolio.netlify.app/)
 
