@@ -5,8 +5,13 @@
 
   <!-- Dynamic Typing Subtitle -->
   <a href="https://github.com/preyal2">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+Web+%26+Software+Engineer+💻;Designing+Scalable+Backend+Architectures+⚙️;Building+Intelligent+AI-Powered+Systems+🤖;Crafting+High-Performance+Frontend+UIs+🎨;Exploring+Cloud+Computing+%26+Modern+DevOps+☁️" alt="Preyal Modi - Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=🤖+AI+Builder+%7C+💻+Vibe+Coder;☁️+Exploring+AI,+Cloud+Computing+%26+Data+Analytics;🚀+Building+practical+software,+one+project+at+a+time.;Full-Stack+Web+%26+Intelligent+Systems+Architect+⚡" alt="Preyal Modi - Typing SVG" />
   </a>
+
+  <!-- Slogan Tagline -->
+  <p align="center">
+    <b>🤖 AI Builder &nbsp;|&nbsp; 💻 Vibe Coder &nbsp;|&nbsp; ☁️ Exploring AI, Cloud Computing & Data Analytics &nbsp;|&nbsp; 🚀 Building practical software, one project at a time.</b>
+  </p>
 
   <!-- Quick Badges & Profile Views -->
   <p align="center">
@@ -32,17 +37,16 @@
 ```yaml
 profile:
   name: Preyal Modi
-  discipline: Computer Engineering
-  specialization: Full-Stack Web Development & AI/ML Systems
-  core_stack: [TypeScript, JavaScript, Python, PHP, React, Node.js, SQL]
-  architecture_mindset: "Clean code, modular design, type-safety, and seamless user experiences."
-  currently_building: "Full-stack enterprise applications and autonomous AI agents."
+  title: Computer Engineering Student | Full-Stack & AI Builder
+  slogan: "🤖 AI Builder | 💻 Vibe Coder | ☁️ Exploring AI, Cloud Computing & Data Analytics | 🚀 Building practical software, one project at a time."
+  stack: [TypeScript, JavaScript, Python, PHP, React, Node.js, SQL]
+  focus: Designing resilient full-stack systems and integrating intelligent AI agent workflows.
 ```
 
-- 💡 **Full-Stack Engineering:** Experienced in building end-to-end web applications—from crafting intuitive, accessible frontend interfaces to engineering robust RESTful APIs, authentication workflows, and relational/NoSQL databases.
-- 🤖 **AI & Intelligent Systems:** Integrating machine learning pipelines, LLM agent workflows, and data-driven insights into practical web ecosystems.
-- 🎓 **Academic Background:** Computer Engineering student with strong foundations in Data Structures, Algorithms, Object-Oriented Programming, and Database Management Systems.
-- ⚡ **Problem Solver:** Consistently practicing algorithmic challenges to optimize time & space complexity.
+- 💡 **Full-Stack Engineering:** Building scalable, end-to-end applications—from clean, responsive frontend UIs to modular REST APIs and robust database schemas.
+- 🤖 **AI & Intelligent Systems:** Developing autonomous agent pipelines, prompt workflows, and practical machine learning applications.
+- 🎓 **Computer Engineering:** Grounded in strong fundamentals—Data Structures & Algorithms, Object-Oriented Design, and Database Management.
+- ⚡ **Vibe Coder & Builder:** Passionate about shipping clean, high-performance software with rapid iteration and creative problem solving.
 
 ---
 
@@ -52,7 +56,7 @@ profile:
 
   <!-- Interactive Skill Icons Grid -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,python,php,c,cpp,react,html,css,tailwind,bootstrap,nodejs,express,mysql,postgres,mongodb,sqlite,git,github,docker,gcp,vercel,netlify,postman,vscode,figma" alt="Preyal's Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=ts,js,py,php,c,cpp,react,html,css,tailwind,bootstrap,nodejs,express,mysql,postgres,mongodb,sqlite,git,github,docker,gcp,vercel,netlify,postman,vscode,figma" alt="Preyal's Tech Stack" />
   </a>
 
 </div>
@@ -101,7 +105,7 @@ profile:
       <p align="center">
         <img src="https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
         <img src="https://img.shields.io/badge/Web_Speech_API-4285F4?style=flat-square&logo=google&logoColor=white" />
-        <img src="https://img.shields.io/badge/QR_Pass_Engine-000000?style=flat-square&logo=qr-code&logoColor=white" />
+        <img src="https://img.shields.io/badge/QR_Pass_Engine-000000?style=flat-square&logo=github&logoColor=white" />
       </p>
       <ul>
         <li><b>Real-time Transit:</b> Interactive simulated GPS radar tracking engine with live bus stop progression.</li>
@@ -156,13 +160,19 @@ profile:
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=preyal2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=38BDF8&text_color=94A3B8&icon_color=38BDF8&bg_color=0D1117" height="165" alt="Preyal's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=preyal2&layout=compact&theme=tokyonight&hide_border=true&title_color=38BDF8&text_color=94A3B8&bg_color=0D1117" height="165" alt="Preyal's Top Languages" />
+  <!-- Active GitHub Stats Mirror -->
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=preyal2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=38BDF8&text_color=94A3B8&icon_color=38BDF8&bg_color=0D1117" height="165" alt="Preyal's GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=preyal2&layout=compact&theme=tokyonight&hide_border=true&title_color=38BDF8&text_color=94A3B8&bg_color=0D1117" height="165" alt="Preyal's Top Languages" />
 
 </div>
 
-<div align="center" style="margin-top: 12px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=preyal2&theme=tokyonight&hide_border=true&stroke=38BDF8&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
+<div align="center" style="margin-top: 14px;">
+  <!-- Live Streak Stats & Activity Graph -->
+  <img src="https://streak-stats.demolab.com/?user=preyal2&theme=tokyonight&hide_border=true&stroke=38BDF8&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
+</div>
+
+<div align="center" style="margin-top: 14px;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=preyal2&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Preyal's Contribution Graph" />
 </div>
 
 ---
@@ -181,6 +191,9 @@ profile:
   </a>
   <a href="https://preyal1portfolio.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/preyal2">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.instagram.com/preyal____/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
