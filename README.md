@@ -1,24 +1,30 @@
 <div align="center">
 
   <!-- Hero Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21,31&height=230&section=header&text=Preyal%20Modi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20Analytics%20•%20Machine%20Learning%20•%20AI%20%26%20Predictive%20Modeling&descFontSize=19&descAlignY=60&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21,31&height=230&section=header&text=Preyal%20Modi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20Analytics%20•%20Machine%20Learning%20•%20Software%20Development&descFontSize=19&descAlignY=60&descAlign=50" width="100%"/>
 
   <!-- Dynamic Typing Subtitle -->
   <a href="https://github.com/preyal2">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=820&lines=📊+Data+Analytics+%26+Exploratory+Data+Analysis+(EDA);🤖+Machine+Learning+%7C+Predictive+Modeling+%7C+Deep+Learning;⚡+Next-Gen+AI+Pipelines+Powered+by+Google+Gemini+3.8+Flash;🧠+Generative+AI,+Autonomous+Agents+%26+LLM+Reasoning;📈+Turning+Complex+Datasets+into+Actionable+Business+Intelligence;⚡+Python+•+Pandas+•+Scikit-Learn+•+PyTorch+•+SQL+•+Gemini+3.8" alt="Preyal Modi - Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=📊+Data+Analytics+%26+Exploratory+Data+Analysis+(EDA);🤖+Machine+Learning+%7C+Predictive+Modeling+%7C+AI;💻+Software+Engineering+%26+System+Architecture;📈+Translating+Raw+Data+into+Scalable+Software+Solutions;⚡+Python+•+TypeScript+•+React+•+Pandas+•+Scikit-Learn+•+SQL" alt="Preyal Modi - Typing SVG" />
   </a>
 
   <!-- Slogan Tagline -->
   <p align="center">
-    <b>📊 Data Analytics &nbsp;|&nbsp; 🤖 Machine Learning &nbsp;|&nbsp; ⚡ Google Gemini 3.8 & GenAI &nbsp;|&nbsp; 📈 Data-Driven Problem Solver</b>
+    <b>📊 Data Analytics &nbsp;|&nbsp; 🤖 Machine Learning &nbsp;|&nbsp; 💻 Software Development &nbsp;|&nbsp; 🚀 Building Scalable Solutions</b>
   </p>
+
+  <!-- Live Upper Banner -->
+  <div align="center" style="margin: 12px 0;">
+    <a href="https://github.com/preyal2">
+      <img src="https://streak-stats.demolab.com/?user=preyal2&theme=tokyonight&hide_border=true&stroke=38BDF8&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="Live GitHub Streak Banner" />
+    </a>
+  </div>
 
   <!-- Quick Badges & Profile Views -->
   <p align="center">
     <a href="https://github.com/preyal2"><img src="https://komarev.com/ghpvc/?username=preyal2&label=Profile%20Views&color=38bdf8&style=flat-square" alt="Profile Views" /></a>
-    <img src="https://img.shields.io/badge/Specialization-Data_Analytics_%26_ML-38BDF8?style=flat-square" alt="Specialization" />
-    <img src="https://img.shields.io/badge/AI_Engine-Gemini_3.8_Flash-8E75FF?style=flat-square&logo=google&logoColor=white" alt="Gemini 3.8" />
-    <img src="https://img.shields.io/badge/Status-Analyzing_%26_Building_AI_Models-22c55e?style=flat-square" alt="Status" />
+    <img src="https://img.shields.io/badge/Specialization-Data_Analytics_%26_Software_Engineering-38BDF8?style=flat-square" alt="Specialization" />
+    <img src="https://img.shields.io/badge/Status-Building_%26_Open_to_Collaborations-22c55e?style=flat-square" alt="Status" />
   </p>
 
   <!-- Connect Buttons -->
@@ -34,55 +40,32 @@
 
 ---
 
-### 👨‍💻 About Me & Analytical Philosophy
+### 👨‍💻 About Me & Engineering Philosophy
 
 ```yaml
 profile:
   name: Preyal Modi
-  title: Data Analytics & Machine Learning Engineer | AI Builder
-  slogan: "📊 Data Analytics | 🤖 Machine Learning | ⚡ Gemini 3.8 & AI Models | 📈 Data-Driven Problem Solver"
-  core_toolkit: [Python, Pandas, NumPy, Scikit-Learn, PyTorch, SQL, Seaborn, Gemini 3.8 Flash, Matplotlib]
-  focus: Uncovering hidden patterns through EDA, training predictive ML models, and deploying intelligent Gemini 3.8 AI systems.
+  title: Data Analytics & Machine Learning Engineer | Software Developer
+  slogan: "📊 Data Analytics | 🤖 Machine Learning | 💻 Software Development | 🚀 Data-Driven Solutions"
+  core_toolkit: [Python, Pandas, NumPy, Scikit-Learn, PyTorch, TypeScript, React, SQL, Seaborn]
+  focus: Uncovering hidden data insights, training predictive models, and building scalable software systems.
 ```
 
-- 📊 **Exploratory Data Analysis (EDA) & Insights:** Transforming noisy, multi-dimensional raw datasets into actionable intelligence through hypothesis testing, distribution profiling, and outlier isolation.
-- 🤖 **Machine Learning & Predictive Modeling:** Developing supervised and unsupervised models (regression, classification, clustering, ensemble methods) with Scikit-Learn, XGBoost, and deep neural architectures.
-- 🧠 **Generative AI & LLM Systems:** Building autonomous AI agent pipelines, multi-criteria evaluation engines powered by Google Gemini 3.8 Flash, prompt-engineered workflows, and RAG architectures.
-- 📈 **Data Storytelling & Statistical Visualization:** Designing publication-grade visualizations, bivariate correlation charts, and executive heatmaps using Matplotlib, Seaborn, and interactive dashboards.
-- 🎓 **Algorithmic Foundations:** Strong roots in Computer Engineering, Data Structures & Algorithms, Big-O computational efficiency, and robust database architecture.
+- 📊 **Data Analytics & Business Intelligence:** Wrangling complex multi-dimensional datasets, hypothesis testing, identifying commercial trends, and translating raw telemetry into clear executive insights.
+- 🤖 **Machine Learning & Predictive Modeling:** Developing supervised and unsupervised models (regression, classification, clustering, ensemble methods) with Scikit-Learn, XGBoost, and neural architectures.
+- 💻 **Software Engineering & Application Development:** Designing scalable, clean, and responsive applications—from modern interactive frontends to modular APIs and robust database schemas.
+- 📈 **Data Storytelling & Visualization:** Translating statistical outputs into intuitive dashboards and publication-grade charts using Matplotlib, Seaborn, Chart.js, and Plotly.
+- 🎓 **Computer Engineering Foundations:** Grounded in strong computer science fundamentals—Data Structures & Algorithms, Object-Oriented Design, and Database Management.
 
 ---
 
-### 🔄 End-to-End Data & ML Engineering Lifecycle
-
-<div align="center">
-
-```
-  ┌───────────────────────┐      ┌───────────────────────┐      ┌───────────────────────┐
-  │  1. Data Ingestion &  │ ──►  │ 2. Exploratory Data   │ ──►  │ 3. Feature            │
-  │     Wrangling         │      │    Analysis (EDA)     │      │    Engineering        │
-  │  SQL • Pandas • APIs  │      │ Seaborn • Correlation │      │ Scaling • Encoding    │
-  └───────────────────────┘      └───────────────────────┘      └───────────────────────┘
-                                                                            │
-                                                                            ▼
-  ┌───────────────────────┐      ┌───────────────────────┐      ┌───────────────────────┐
-  │  6. Business Value &  │ ◄──  │  5. Model Deployment  │ ◄──  │ 4. Machine Learning & │
-  │     Storytelling      │      │     & AI Agents       │      │    Model Evaluation   │
-  │ Dashboards • Reports  │      │ Gemini • APIs • Cloud │      │ Scikit • PyTorch • CV │
-  └───────────────────────┘      └───────────────────────┘      └───────────────────────┘
-```
-
-</div>
-
----
-
-### 🧰 Technical Skills & Analytical Toolkit
+### 🧰 Technical Skills & Capabilities
 
 <div align="center">
 
   <!-- Interactive Skill Icons Grid -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,r,cpp,postgres,mysql,mongodb,sqlite,docker,gcp,git,github,vscode,postman,figma,ts,js,html,css" alt="Preyal's Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=py,ts,js,react,html,css,tailwind,nodejs,php,mysql,postgres,sqlite,mongodb,docker,gcp,git,github,vscode,postman,figma" alt="Preyal's Tech Stack" />
   </a>
 
 </div>
@@ -94,17 +77,18 @@ profile:
 | Domain | Technologies, Frameworks & Libraries |
 | :--- | :--- |
 | **📊 Data Analytics & Wrangling** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
-| **🤖 Machine Learning & Deep Learning** | ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) |
-| **🧠 Generative AI, LLMs & Agents** | ![Google Gemini 3.8](https://img.shields.io/badge/Google_Gemini_3.8_Flash-8E75FF?style=flat-square&logo=google&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white) ![Autonomous Agents](https://img.shields.io/badge/AI_Agents-FF6F00?style=flat-square&logo=probot&logoColor=white) ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-00A67E?style=flat-square) |
+| **🤖 Machine Learning & AI** | ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) |
+| **💻 Frontend & Web Development** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **⚙️ Backend & APIs** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![PHP 8](https://img.shields.io/badge/PHP_8-777BB4?style=flat-square&logo=php&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=flat-square&logo=fastapi&logoColor=white) |
 | **📈 Visualization & Storytelling** | ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square) ![Seaborn](https://img.shields.io/badge/Seaborn-4c72b0?style=flat-square) ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
-| **🗄️ Databases, SQL & Big Data** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
-| **☁️ Cloud, MLOps & Dev Tools** | ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
+| **🗄️ Databases & Storage** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
+| **☁️ Cloud & Dev Tools** | ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
 
 </div>
 
 ---
 
-### 🚀 Featured Data Analytics, Machine Learning & AI Projects
+### 🚀 Featured Projects — Data Analytics, AI & Software Engineering
 
 <table>
   <tr>
@@ -117,8 +101,8 @@ profile:
         <img src="https://img.shields.io/badge/TMDb_10K+-01d277?style=flat-square&logo=themoviedatabase&logoColor=white" />
       </p>
       <ul>
-        <li><b>Exploratory Data Analysis:</b> End-to-end statistical breakdown of 10,000+ films (1960–2015) addressing 5 foundational commercial questions.</li>
-        <li><b>Key Analytical Findings:</b> Discovered that higher-budget films achieve <b>>50% higher audience popularity</b>, identified the <b>100–180 min runtime sweet spot</b>, and proved strong popularity-to-profit conversion.</li>
+        <li><b>Exploratory Data Analysis:</b> End-to-end statistical analysis of 10,000+ films (1960–2015) examining budget, runtime, revenue, and genre trends.</li>
+        <li><b>Key Analytical Findings:</b> Discovered high-budget movies achieve <b>>50% higher audience popularity</b>, identified the <b>100–180 min runtime sweet spot</b>, and verified popularity-to-profit conversion.</li>
         <li><b>Advanced Visualizations:</b> Built multi-decade dual heatmaps (<code>budget × genre × year</code> & <code>revenue × genre × year</code>) with cubehelix colormaps.</li>
       </ul>
       <p align="center">
@@ -128,15 +112,15 @@ profile:
     <td width="50%" valign="top">
       <h3 align="center">🤖 AI Technical Interview Coach & Evaluator</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Google_Gemini-3.8_Flash-8E75FF?style=flat-square&logo=google&logoColor=white" />
+        <img src="https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/Speech_AI-4285F4?style=flat-square&logo=google&logoColor=white" />
-        <img src="https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
       </p>
       <ul>
-        <li><b>Next-Gen Gemini 3.8 Engine:</b> Powered by Google Gemini 3.8 Flash with automated multi-tier fallback (3.8/3.7/2.5/1.5) and deep evaluation rubrics.</li>
-        <li><b>Voice Interaction:</b> Dual speech synthesis and voice-to-text dictation for real-time candidate verbal communication.</li>
-        <li><b>Live Code Sandbox:</b> Real-time test execution across Python, JavaScript, TypeScript, Java, and C++.</li>
+        <li><b>Intelligent Evaluation Engine:</b> Real-time candidate evaluation across 5 domains (DSA, Frontend, Backend, System Design, Behavioral) with multi-criteria scoring rubrics.</li>
+        <li><b>Speech & Voice Interaction:</b> Dual audio question narration and real-time speech-to-text voice dictation using the Web Speech API.</li>
+        <li><b>Live Code Sandbox:</b> In-browser test runner executing Python, JavaScript, TypeScript, Java, and C++ with runtime logging.</li>
       </ul>
       <p align="center">
         <a href="https://github.com/preyal2/ai-interview-coach"><b>💻 View Source Code ↗</b></a> •
@@ -146,16 +130,52 @@ profile:
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🧠 Smart Recipe Autonomous AI Agent</h3>
+      <h3 align="center">🚌 Smart College Transport Portal</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Autonomous_Agent-FF6F00?style=flat-square&logo=openai&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/LLM_Reasoning-412991?style=flat-square&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Web_Speech_API-4285F4?style=flat-square&logo=google&logoColor=white" />
+        <img src="https://img.shields.io/badge/QR_Pass_Engine-000000?style=flat-square&logo=github&logoColor=white" />
       </p>
       <ul>
-        <li><b>Autonomous AI Pipeline:</b> Multi-step agent reasoning workflow evaluating complex dietary constraints and nutritional requirements.</li>
+        <li><b>Real-time Transit:</b> Interactive simulated GPS radar tracking engine with live bus stop progression and route maps.</li>
+        <li><b>Voice Accessibility:</b> Automated voice announcements for approaching stops powered by HTML5 Web Speech API.</li>
+        <li><b>Smart Verification:</b> Digital cryptographic student QR bus pass generation and bus seat occupancy heatmap.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/preyal2/smart-college-transport"><b>💻 View Source Code ↗</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🏋️‍♂️ IronCore Gym Management System</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/PHP_8-777BB4?style=flat-square&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL%20%2F%20SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vanilla_JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" />
+      </p>
+      <ul>
+        <li><b>Enterprise Architecture:</b> Full-stack MVC application with modular routing, CSRF protection, and secure session management.</li>
+        <li><b>Triple-Tier RBAC:</b> Distinct access-controlled portals for <i>Administrators</i>, <i>Trainers</i>, and <i>Members</i>.</li>
+        <li><b>Financial & Attendance Analytics:</b> Interactive Chart.js dashboards tracking member retention, subscription plans, and revenue streams.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/preyal2/ironcore-gym-management-system"><b>💻 View Source Code ↗</b></a> •
+        <a href="https://preyal2.github.io/ironcore-gym-management-system/"><b>⚡ Live Demo ↗</b></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🧠 Smart Recipe Autonomous AI Agent</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Autonomous_Agent-FF6F00?style=flat-square&logo=probot&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      </p>
+      <ul>
+        <li><b>Autonomous AI Pipeline:</b> Multi-step agent reasoning workflow evaluating dietary restrictions, allergies, and nutritional constraints.</li>
         <li><b>Dynamic Ingredient Substitution:</b> Context-aware culinary replacement algorithm using semantic prompt chains.</li>
-        <li><b>Type-Safe Architecture:</b> Strict payload validation and reliable execution handling.</li>
+        <li><b>Type-Safe Architecture:</b> Built with TypeScript for strict type checking, robust payload handling, and high reliability.</li>
       </ul>
       <p align="center">
         <a href="https://github.com/preyal2/SmartRecipePreparationAgent"><b>💻 View Source Code ↗</b></a>
@@ -166,12 +186,12 @@ profile:
       <p align="center">
         <img src="https://img.shields.io/badge/Python_3-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/DSA_1900+-22c55e?style=flat-square&logo=leetcode&logoColor=white" />
-        <img src="https://img.shields.io/badge/Big_Tech_Patterns-FF6F00?style=flat-square" />
+        <img src="https://img.shields.io/badge/14_Patterns-FF6F00?style=flat-square" />
       </p>
       <ul>
-        <li><b>Comprehensive Algorithmic Corpus:</b> Curated master sheet of 1,900+ problems spanning Easy, Medium, and Hard tiers.</li>
+        <li><b>Comprehensive Algorithmic Corpus:</b> Curated master sheet of 1,900+ problems across Easy, Medium, and Hard tiers.</li>
         <li><b>14 Core Interview Patterns:</b> Complete implementations with UMPIRE problem-solving framework and Big-O complexity analysis.</li>
-        <li><b>Interview Vault:</b> Google-tagged interview questions and Gemini AI copilot assistant for interactive problem hints.</li>
+        <li><b>Interview Vault:</b> Google-tagged interview questions and algorithmic cheatsheets.</li>
       </ul>
       <p align="center">
         <a href="https://github.com/preyal2/dsa-beginner-to-advanced"><b>⚡ 1000+ DSA Sheet ↗</b></a> •
@@ -194,11 +214,6 @@ profile:
 </div>
 
 <div align="center" style="margin-top: 14px;">
-  <!-- Live Streak Stats & Activity Graph -->
-  <img src="https://streak-stats.demolab.com/?user=preyal2&theme=tokyonight&hide_border=true&stroke=38BDF8&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
-</div>
-
-<div align="center" style="margin-top: 14px;">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=preyal2&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Preyal's Contribution Graph" />
 </div>
 
@@ -208,13 +223,13 @@ profile:
 
 <div align="center">
 
-  <p>I am passionate about collaborating on <b>Data Analytics pipelines</b>, <b>Machine Learning research & models</b>, <b>Generative AI applications</b>, and <b>Open-Source Data Science initiatives</b>.</p>
+  <p>I am passionate about collaborating on <b>Data Analytics pipelines</b>, <b>Machine Learning applications</b>, and <b>Scalable Software Engineering projects</b>.</p>
 
   <a href="https://www.linkedin.com/in/preyalmodi/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:modipreyal@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://preyal1portfolio.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
