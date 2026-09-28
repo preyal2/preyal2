@@ -5,12 +5,12 @@
 
   <!-- Dynamic Typing Subtitle with Latest Tech -->
   <a href="https://github.com/preyal2">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2600&pause=1000&color=38BDF8&center=true&vCenter=true&width=860&lines=📊+Data+Analytics+%26+Exploratory+Data+Analysis+(EDA)+•+Pandas+•+NumPy;🤖+Machine+Learning+%7C+Predictive+Modeling+%7C+Scikit-Learn+%7C+PyTorch;⚡+Next-Gen+AI+%26+LLM+Pipelines+•+Google+Gemini+3.8+Flash+•+Agents;💻+Modern+Software+Engineering+•+React+19+•+TypeScript+•+Vite;🎯+Algorithmic+Problem+Solving+•+158%2B+LeetCode+Solutions+in+Python+3.12" alt="Preyal Modi - Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2600&pause=1000&color=38BDF8&center=true&vCenter=true&width=860&lines=📊+Data+Analytics+%26+Exploratory+Data+Analysis+(EDA)+•+Pandas+•+NumPy;🤖+Machine+Learning+%7C+Predictive+Modeling+%7C+Scikit-Learn+%7C+PyTorch;⚡+Next-Gen+AI+%26+LLM+Pipelines+•+Google+Gemini+3.8+Flash+•+Agents;💻+Modern+Software+Engineering+•+React+19+•+TypeScript+•+Vite;🎯+Algorithmic+Problem+Solving+•+190%2B+LeetCode+Solutions+in+Python+3.12" alt="Preyal Modi - Typing SVG" />
   </a>
 
   <!-- Slogan Tagline -->
   <p align="center">
-    <b>📊 Data Analytics &nbsp;|&nbsp; 🤖 Machine Learning &nbsp;|&nbsp; ⚡ Generative AI & Agents &nbsp;|&nbsp; 💻 Software Development &nbsp;|&nbsp; 🎯 158+ Solved DSA</b>
+    <b>📊 Data Analytics &nbsp;|&nbsp; 🤖 Machine Learning &nbsp;|&nbsp; ⚡ Generative AI & Agents &nbsp;|&nbsp; 💻 Software Development &nbsp;|&nbsp; 🎯 190+ Solved DSA</b>
   </p>
 
   <!-- Live Upper Streak Banner -->
@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/Specialization-Data_Analytics_%26_Software_Engineering-38BDF8?style=flat-square" alt="Specialization" />
     <img src="https://img.shields.io/badge/Python-3.12-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python 3.12" />
     <img src="https://img.shields.io/badge/TypeScript-5.7-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript 5.7" />
-    <img src="https://img.shields.io/badge/LeetCode-158_Solved-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-190_Solved-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" />
     <img src="https://img.shields.io/badge/Status-Building_%26_Open_to_Collaborations-22c55e?style=flat-square" alt="Status" />
   </p>
 
@@ -79,7 +79,7 @@ profile:
    - Designing secure backend architectures with **Node.js** and **PHP 8.3** featuring Model-View-Controller (MVC) patterns, Triple-Tier Role-Based Access Control (RBAC), and CSRF protection.
 
 5. **🎯 Algorithmic Problem Solving & Computational Rigor**:
-   - **158+ solved LeetCode problems** in **Python 3.12** with strict upper-bound asymptotic time complexity ($O(1)$, $O(\log N)$, $O(N)$) and top-percentile runtimes.
+   - **190+ solved LeetCode problems** in **Python 3.12** with strict upper-bound asymptotic time complexity ($O(1)$, $O(\log N)$, $O(N)$) and top-percentile runtimes.
    - Mastery of **14 core interview patterns** (Sliding Window, Two Pointers, Fast & Slow Pointers, Monotonic Stack, Backtracking, Dynamic Programming) with automated **LeetSync** CI/CD logging.
 
 ---
@@ -159,17 +159,17 @@ profile:
       <h3 align="center">⚡ Daily LeetCode Algorithmic Vault</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3.12-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Problems_Solved-158-success?style=flat-square&logo=leetcode&logoColor=black" />
+        <img src="https://img.shields.io/badge/Problems_Solved-190-success?style=flat-square&logo=leetcode&logoColor=black" />
         <img src="https://img.shields.io/badge/LeetSync-CI%2FCD-blueviolet?style=flat-square&logo=githubactions&logoColor=white" />
         <img src="https://img.shields.io/badge/Runtime-0ms_Target-brightgreen?style=flat-square" />
       </p>
       <ul>
-        <li><b>158+ Problem Repository:</b> Comprehensive algorithmic collection spanning 38 Easy, 87 Medium, and 33 Hard challenges with direct solution links.</li>
+        <li><b>190+ Problem Repository:</b> Comprehensive algorithmic collection spanning 49 Easy, 101 Medium, and 40 Hard challenges with direct solution links.</li>
         <li><b>8 Algorithmic Domains:</b> Structured pattern matrix covering Two Pointers, Sliding Window, Linked Lists, Trees, DP, Backtracking, and Graph theory.</li>
         <li><b>Automated Synchronization:</b> Continuous live LeetCode synchronization via <b>LeetSync</b> maintaining an active GitHub contribution streak.</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/preyal2/daily-leetcode"><b>💻 View 158+ Solved Solutions ↗</b></a>
+        <a href="https://github.com/preyal2/daily-leetcode"><b>💻 View 190+ Solved Solutions ↗</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
