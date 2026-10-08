@@ -5,12 +5,12 @@
 
   <!-- Dynamic Typing Subtitle with Latest Tech -->
   <a href="https://github.com/preyal2">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2600&pause=1000&color=38BDF8&center=true&vCenter=true&width=860&lines=📊+Data+Analytics+%26+Exploratory+Data+Analysis+(EDA)+•+Pandas+•+NumPy;🤖+Machine+Learning+%7C+Predictive+Modeling+%7C+Scikit-Learn+%7C+PyTorch;⚡+Next-Gen+AI+%26+LLM+Pipelines+•+Google+Gemini+3.8+Flash+•+Agents;💻+Modern+Software+Engineering+•+React+19+•+TypeScript+•+Vite;🎯+Algorithmic+Problem+Solving+•+240%2B+LeetCode+Solutions+in+Python+3.12" alt="Preyal Modi - Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2600&pause=1000&color=38BDF8&center=true&vCenter=true&width=860&lines=📊+Data+Analytics+%26+Exploratory+Data+Analysis+(EDA)+•+Pandas+•+NumPy;🤖+Machine+Learning+%7C+Predictive+Modeling+%7C+Scikit-Learn+%7C+PyTorch;⚡+Next-Gen+AI+%26+LLM+Pipelines+•+Google+Gemini+3.8+Flash+•+Agents;💻+Modern+Software+Engineering+•+React+19+•+TypeScript+•+Vite;🎯+Algorithmic+Problem+Solving+•+244%2B+LeetCode+Solutions+in+Python+3.12" alt="Preyal Modi - Typing SVG" />
   </a>
 
   <!-- Slogan Tagline -->
   <p align="center">
-    <b>📊 Data Analytics &nbsp;|&nbsp; 🤖 Machine Learning &nbsp;|&nbsp; ⚡ Generative AI & Agents &nbsp;|&nbsp; 💻 Software Development &nbsp;|&nbsp; 🎯 240+ Solved DSA</b>
+    <b>📊 Data Analytics &nbsp;|&nbsp; 🤖 Machine Learning &nbsp;|&nbsp; ⚡ Generative AI & Agents &nbsp;|&nbsp; 💻 Software Development &nbsp;|&nbsp; 🎯 244+ Solved DSA</b>
   </p>
 
   <!-- Live Upper Streak Banner -->
@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/Specialization-Data_Analytics_%26_Software_Engineering-38BDF8?style=flat-square" alt="Specialization" />
     <img src="https://img.shields.io/badge/Python-3.12-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python 3.12" />
     <img src="https://img.shields.io/badge/TypeScript-5.7-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript 5.7" />
-    <img src="https://img.shields.io/badge/LeetCode-240_Solved-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-244_Solved-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" />
     <img src="https://img.shields.io/badge/Status-Building_%26_Open_to_Collaborations-22c55e?style=flat-square" alt="Status" />
   </p>
 
@@ -80,7 +80,7 @@ profile:
    - High-fidelity lossless document conversion APIs with **FastAPI** in [**`documorph-converter`**](https://github.com/preyal2/documorph-converter), real-time transit radar in [**`smart-college-transport`**](https://github.com/preyal2/smart-college-transport), and enterprise Cisco IOS / MikroTik network simulation in [**`Campus-Network-Design-and-Implementation`**](https://github.com/preyal2/Campus-Network-Design-and-Implementation).
 
 5. **🎯 Algorithmic Problem Solving & Computational Rigor**:
-   - **240+ solved LeetCode problems** in **Python 3.12** with strict upper-bound asymptotic time complexity ($O(1)$, $O(\log N)$, $O(N)$) and top-percentile runtimes in [**`daily-leetcode`**](https://github.com/preyal2/daily-leetcode).
+   - **244+ solved LeetCode problems** in **Python 3.12** with strict upper-bound asymptotic time complexity ($O(1)$, $O(\log N)$, $O(N)$) and top-percentile runtimes in [**`daily-leetcode`**](https://github.com/preyal2/daily-leetcode).
    - Mastery of **14 core interview patterns** with UMPIRE methodology in [**`coding-interview-patterns`**](https://github.com/preyal2/coding-interview-patterns) and complete progressive 1,900+ problem tracking sheet in [**`dsa-beginner-to-advanced`**](https://github.com/preyal2/dsa-beginner-to-advanced).
 
 ---
@@ -322,20 +322,20 @@ profile:
   <!-- Row 6: Daily LeetCode Vault & Comprehensive DSA Roadmap -->
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">⚡ Daily LeetCode Algorithmic Vault (240+ Solved)</h3>
+      <h3 align="center">⚡ Daily LeetCode Algorithmic Vault (244+ Solved)</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3.12-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Problems_Solved-240-success?style=flat-square&logo=leetcode&logoColor=black" />
+        <img src="https://img.shields.io/badge/Problems_Solved-244-success?style=flat-square&logo=leetcode&logoColor=black" />
         <img src="https://img.shields.io/badge/LeetSync-CI%2FCD-blueviolet?style=flat-square&logo=githubactions&logoColor=white" />
         <img src="https://img.shields.io/badge/Runtime-0ms_Target-brightgreen?style=flat-square" />
       </p>
       <ul>
-        <li><b>240+ Problem Repository:</b> Comprehensive algorithmic collection spanning 57 Easy, 138 Medium, and 45 Hard challenges with direct solution links.</li>
+        <li><b>244+ Problem Repository:</b> Comprehensive algorithmic collection spanning 58 Easy, 140 Medium, and 46 Hard challenges with direct solution links.</li>
         <li><b>8 Algorithmic Domains:</b> Structured pattern matrix covering Two Pointers, Sliding Window, Linked Lists, Trees, DP, Backtracking, and Graph theory.</li>
         <li><b>Automated Synchronization:</b> Continuous live LeetCode synchronization via <b>LeetSync</b> maintaining an active GitHub contribution streak.</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/preyal2/daily-leetcode"><b>💻 View 240+ Solved Solutions ↗</b></a>
+        <a href="https://github.com/preyal2/daily-leetcode"><b>💻 View 244+ Solved Solutions ↗</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -375,7 +375,7 @@ profile:
 | **7** | [**`Data-Analytics-with-Movie-Data`**](https://github.com/preyal2/Data-Analytics-with-Movie-Data) | Data Analytics & EDA | Python 3.12, Pandas 2.x, NumPy, Matplotlib, Seaborn | 10K+ TMDb movie EDA analyzing budget ROI, 100–180 min runtime window & 50-year genre trends. | [💻 Notebook & Code](https://github.com/preyal2/Data-Analytics-with-Movie-Data) |
 | **8** | [**`Campus-Network-Design-and-Implementation`**](https://github.com/preyal2/Campus-Network-Design-and-Implementation) | Systems & Computer Networks | Cisco IOS, Packet Tracer .pkt, MikroTik RouterOS, OSPF | Multi-faculty hierarchical campus network with 802.1Q VLANs, Router-on-a-Stick, and ACL security. | [📄 Case Study (PDF)](https://github.com/preyal2/Campus-Network-Design-and-Implementation/blob/main/College%20Campus%20Network%20Design%20and%20Configuration.pdf) • [💻 Code](https://github.com/preyal2/Campus-Network-Design-and-Implementation) |
 | **9** | [**`smart-college-transport`**](https://github.com/preyal2/smart-college-transport) | IoT Transit & Audio AI | Vanilla JS ES6+, Web Speech API, HTML5/CSS3, QR | Real-time GPS bus radar simulation with automated voice stop announcements and QR student passes. | [💻 Source Code](https://github.com/preyal2/smart-college-transport) |
-| **10** | [**`daily-leetcode`**](https://github.com/preyal2/daily-leetcode) | Algorithmic Practice Vault | Python 3.12, LeetSync CI/CD, Big-O Complexity Proofs | 240+ sub-millisecond solved solutions (57 Easy, 138 Medium, 45 Hard) with automated sync. | [⚡ LeetCode Vault](https://github.com/preyal2/daily-leetcode) |
+| **10** | [**`daily-leetcode`**](https://github.com/preyal2/daily-leetcode) | Algorithmic Practice Vault | Python 3.12, LeetSync CI/CD, Big-O Complexity Proofs | 244+ sub-millisecond solved solutions (58 Easy, 140 Medium, 46 Hard) with automated sync. | [⚡ LeetCode Vault](https://github.com/preyal2/daily-leetcode) |
 | **11** | [**`coding-interview-patterns`**](https://github.com/preyal2/coding-interview-patterns) | Algorithmic Patterns | Python 3.12, UMPIRE Framework, Big-O Proofs | Masterclass covering 14 core patterns (Sliding Window, Monotonic Stack, DP, Graphs). | [📖 Masterclass](https://github.com/preyal2/coding-interview-patterns) |
 | **12** | [**`dsa-beginner-to-advanced`**](https://github.com/preyal2/dsa-beginner-to-advanced) | DSA Curriculum & Roadmap | Python 3.12, Google Interview Vault, AI Copilot | 1,900+ problem tracking sheet, Google interview question vault, and structured roadmap. | [🚀 Curriculum Vault](https://github.com/preyal2/dsa-beginner-to-advanced) |
 
