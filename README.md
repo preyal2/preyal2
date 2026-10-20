@@ -394,7 +394,7 @@ profile:
 </div>
 
 <div align="center" style="margin-top: 14px;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=preyal2&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Preyal's Contribution Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=preyal2&theme=tokyonight" width="95%" alt="Preyal's Contribution Profile & Year Activity" />
 </div>
 
 ---
